@@ -1,6 +1,5 @@
 h1 {
     font-family: 'Edu QLD Beginner', cursive;
-
     font-size: 50px;
 }
 
@@ -31,6 +30,7 @@ p {
 
 section {
     display: flex;
+    margin-bottom: 150px;
 }
 
 .half-width {
@@ -39,7 +39,7 @@ section {
 }
 
 .half-width img {
-    width: 94%;
+    width: 89%;
 }
 
 .button {
@@ -55,4 +55,23 @@ section {
 body {
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+}
+
+.pink {
+    color: pink;
+}
+
+.queen {
+    font-family: 'Edu QLD Beginner', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+
+.on img {
+    width: 75%;
+}
+
+.samia {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
