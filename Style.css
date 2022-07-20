@@ -1,0 +1,58 @@
+h1 {
+    font-family: 'Edu QLD Beginner', cursive;
+
+    font-size: 50px;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+.font {
+    font-size: xx-large;
+}
+
+.s {
+    color: #de152d;
+}
+
+p {
+    font-size: 24px;
+    background-color: pink;
+    border: 10px solid brown;
+    border-radius: 20px;
+    margin: 20px;
+    padding: 10px;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 1%;
+}
+
+.half-width img {
+    width: 94%;
+}
+
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(red, brown);
+    font-weight: 900;
+    padding: 10px;
+    color: antiquewhite;
+    border-radius: 5px;
+
+}
+
+body {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
