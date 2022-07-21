@@ -19,7 +19,7 @@ h1 {
     color: #de152d;
 }
 
-p {
+.myself {
     font-size: 24px;
     background-color: pink;
     border: 10px solid brown;
@@ -28,7 +28,7 @@ p {
     padding: 10px;
 }
 
-section {
+.samia {
     display: flex;
     margin-bottom: 150px;
 }
@@ -39,7 +39,7 @@ section {
 }
 
 .half-width img {
-    width: 89%;
+    width: 90%;
 }
 
 .button {
@@ -66,7 +66,7 @@ body {
     font-family: 'Oswald', sans-serif;
 }
 
-.on img {
+.on2 img {
     width: 75%;
 }
 
@@ -74,4 +74,48 @@ body {
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.rose {
+    color: #c00e0ecc;
+    text-align: center;
+}
+
+.cl {
+    color: purple;
+    font-size: x-large;
+}
+
+.shadow {
+    box-shadow: 10px 10px 10px gray;
+    margin-left: 90px;
+    margin-right: 50px;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.no {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.on {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.sep {
+    border-left: 10px solid blue;
+
+}
+
+.sep2 {
+    border-left: 10px solid lawngreen;
+}
+
+footer p {
+    text-align: center;
 }
